@@ -35,7 +35,7 @@ module.exports = {
           "short": "none"
         }
       ]
-    },
+    }
   },
   filters: {
     '.eslintrc': 'lint'
